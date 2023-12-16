@@ -42,10 +42,10 @@ async def start_(client: Client, message: Message):
         caption=f"""**━━━━━━━━━━━━━━━━━━━━━━━ ʜʏ  ɪ'ᴀᴍ ᴀ ᴀᴅᴠᴀɴᴄᴇ ᴄʜᴀᴛ ʙᴏᴛ.\n\n ғʀᴏᴍ ʏᴏᴜʀ ʜᴇᴀʀᴛ \n\n ɪ'ᴍ ᴀ ᴀʀᴛɪғɪᴄɪᴀʟ ɪɴᴛᴇʟʟɪɢᴇɴᴄᴇ \n\n /ᴄʜᴀᴛʙᴏᴛ - [ᴏɴ|ᴏғғ] ᴛʜɪs ᴄᴏᴍᴍᴀɴᴅ ᴜsᴇ ᴏɴʟʏ ᴀɴʏ ɢʀᴏᴜᴘ
 
 ┏━━━━━━━━━━━━━━━━━┓
-┣❥︎ ♕︎ᴏᴡɴᴇʀ♕︎   » [ᴄʟɪᴄᴋ ʜᴇʀᴇ](tg://user?id=1777270311)
-┣❥︎ ᴜᴘᴅᴀᴛᴇs ➪ » [ᴄʟɪᴄᴋ ʜᴇʀᴇ](https://t.me/+MQn7rXz1LeViZmJl)
-┣❥︎ sᴜᴘᴘᴏʀᴛ ➪ » [ᴄʟɪᴄᴋ ʜᴇʀᴇ](https://t.me/+PtOLQT04ocMzOTJl)
-┣❥︎ ᴄʀᴇᴀᴛᴏʀ ➪ » [♕︎𓆩𝗥𝗗𝗫𓆪♕︎](tg://user?id=1777270311)
+┣❥︎ ♕︎ᴏᴡɴᴇʀ♕︎   » [ᴄʟɪᴄᴋ ʜᴇʀᴇ](tg://user?id=6743351101)
+┣❥︎ support ➪ » [ᴄʟɪᴄᴋ ʜᴇʀᴇ](https://t.me/+_8wXoXCar25hM2Q1)
+┣❥︎ channel ➪ » [ᴄʟɪᴄᴋ ʜᴇʀᴇ](https://t.me/About_Devil_XD)
+┣❥︎ ᴄʀᴇᴀᴛᴏʀ ➪ » [👑⃝🕊️⃝❂͜͡𝐃𝐞𝐯𝐢𝐥. 𝐱𝗗 ⍣⃟❂͜͡࿐](tg://user?id=6743351101)
 ┗━━━━━━━━━━━━━━━━━┛
 
  ᴊᴜsᴛ ᴀᴅᴅ ᴍᴇ » ᴛᴏ ʏᴏᴜʀ ɢʀᴏᴜᴘ ᴀɴᴅ
@@ -72,7 +72,7 @@ async def start(client: Client, message: Message):
             [
                 [
                     InlineKeyboardButton(
-                        " ᴊᴏɪɴ ᴏᴜʀ ᴄʜᴀᴛ ɢʀᴏᴜᴘ ", url=f"https://t.me/+PtOLQT04ocMzOTJl")
+                        " ᴊᴏɪɴ ᴏᴜʀ ᴄʜᴀᴛ ɢʀᴏᴜᴘ ", url=f"https://t.me/+_8wXoXCar25hM2Q1")
                 ]
             ]
         ),
@@ -98,12 +98,12 @@ async def chatbotofd(client, message):
     is_v = v.find_one({"chat_id": message.chat.id})
     if not is_v:
         v.insert_one({"chat_id": message.chat.id})
-        await message.reply_text(f"ʀᴅx ᴄʜᴀᴛʙᴏᴛ ᴅɪsᴀʙʟᴇᴅ 🥀!\n\nᴀɴʏ ᴘʀᴏʙʟᴇᴍ ᴛᴏ [ʀᴇᴘᴏʀᴛ](https://t.me/+PtOLQT04ocMzOTJl) 🥀\n\n[ᴜᴘᴅᴀᴛᴇs](https://t.me/+MQn7rXz1LeViZmJl)")
+        await message.reply_text(f"Sona ᴄʜᴀᴛʙᴏᴛ ᴅɪsᴀʙʟᴇᴅ 🥀!\n\nᴀɴʏ ᴘʀᴏʙʟᴇᴍ ᴛᴏ [ʀᴇᴘᴏʀᴛ](https://t.me/About_Devil_XD) 🥀\n\n[ᴜᴘᴅᴀᴛᴇs](https://t.me/+_8wXoXCar25hM2Q1)")
     if is_v:
-        await message.reply_text(f"ʀᴅx ᴄʜᴀᴛʙᴏᴛ ɪs ᴀʟʟʀᴇᴀᴅʏ ᴅɪsᴀʙʟᴇᴅ 🥀!\n\nᴀɴʏ ᴘʀᴏʙʟᴇᴍ ᴛᴏ [ʀᴇᴘᴏʀᴛ](https://t.me/+PtOLQT04ocMzOTJl) 🥀\n\n[ᴜᴘᴅᴀᴛᴇs](https://t.me/+MQn7rXz1LeViZmJl)")
+        await message.reply_text(f"Sona ᴄʜᴀᴛʙᴏᴛ ɪs ᴀʟʟʀᴇᴀᴅʏ ᴅɪsᴀʙʟᴇᴅ 🥀!\n\nᴀɴʏ ᴘʀᴏʙʟᴇᴍ ᴛᴏ [ʀᴇᴘᴏʀᴛ](https://t.me/About_Devil_XD) 🥀\n\n[ᴜᴘᴅᴀᴛᴇs](https://t.me/+_8wXoXCar25hM2Q1)")
     
 
-@bot.on_message(
+@bot.on_message(ᴜᴘᴅᴀᴛᴇs
     filters.command("chatbot on", prefixes=["/", ".", "?", "-", "RDX"])
     & ~filters.private)
 async def chatboton(client, message):
@@ -120,17 +120,17 @@ async def chatboton(client, message):
             )
     is_v = v.find_one({"chat_id": message.chat.id})
     if not is_v:           
-        await message.reply_text(f"ʀᴅx ᴄʜᴀᴛʙᴏᴛ ᴇɴᴀʙʟᴇ 🥀!\n\nᴀɴʏ ᴘʀᴏʙʟᴇᴍ ᴛᴏ [ʀᴇᴘᴏʀᴛ](https://t.me/+PtOLQT04ocMzOTJl) 🥀\n\n[ᴜᴘᴅᴀᴛᴇs](https://t.me/+MQn7rXz1LeViZmJl)")
+        await message.reply_text(f"Sona ᴄʜᴀᴛʙᴏᴛ ᴇɴᴀʙʟᴇ 🥀!\n\nᴀɴʏ ᴘʀᴏʙʟᴇᴍ ᴛᴏ [ʀᴇᴘᴏʀᴛ](https://t.me/About_Devil_XD) 🥀\n\n[ᴜᴘᴅᴀᴛᴇs](https://t.me/+_8wXoXCar25hM2Q1)")
     if is_v:
         v.delete_one({"chat_id": message.chat.id})
-        await message.reply_text(f"ʀᴅx ᴄʜᴀᴛʙᴏᴛ ɪs ᴀʟʟʀᴇᴀᴅʏ ᴇɴᴀʙʟᴇ 🥀!\n\nᴀɴʏ ᴘʀᴏʙʟᴇᴍ ᴛᴏ [ʀᴇᴘᴏʀᴛ](https://t.me/+PtOLQT04ocMzOTJl) 🥀\n\n[ᴜᴘᴅᴀᴛᴇs](https://t.me/+MQn7rXz1LeViZmJl) ")
+        await message.reply_text(f"Sona ᴄʜᴀᴛʙᴏᴛ ɪs ᴀʟʟʀᴇᴀᴅʏ ᴇɴᴀʙʟᴇ 🥀!\n\nᴀɴʏ ᴘʀᴏʙʟᴇᴍ ᴛᴏ [ʀᴇᴘᴏʀᴛ](https://t.me/About_Devil_XD) 🥀\n\n[ᴜᴘᴅᴀᴛᴇs](https://t.me/+_8wXoXCar25hM2Q1) ")
     
 
 @bot.on_message(
     filters.command("chatbot", prefixes=["/", ".", "?", "-"])
     & ~filters.private)
 async def chatbot(client, message):
-    await message.reply_text(f"**ᴜsᴀɢᴇ :**\n/chatbot [on|off] ᴏɴʟʏ ɢʀᴏᴜᴘ !\n\nᴀɴʏ ᴘʀᴏʙʟᴇᴍ ᴛᴏ [ʀᴇᴘᴏʀᴛ](https://t.me/+PtOLQT04ocMzOTJl)  🥀\n\n[ᴜᴘᴅᴀᴛᴇs](https://t.me/+MQn7rXz1LeViZmJl)")
+    await message.reply_text(f"**ᴜsᴀɢᴇ :**\n/chatbot [on|off] ᴏɴʟʏ ɢʀᴏᴜᴘ !\n\nᴀɴʏ ᴘʀᴏʙʟᴇᴍ ᴛᴏ [ʀᴇᴘᴏʀᴛ](https://t.me/About_Devil_XD)  🥀\n\n[ᴜᴘᴅᴀᴛᴇs](https://t.me/+_8wXoXCar25hM2Q1)")
 
 
 @bot.on_message(
