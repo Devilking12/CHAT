@@ -104,7 +104,7 @@ async def chatbotofd(client, message):
     
 
 @bot.on_message(ᴜᴘᴅᴀᴛᴇs
-    filters.command("chatbot on", prefixes=["/", ".", "?", "-", "Devil"])
+    filters.command("chatbot on", prefixes=["/", ".", "?", "-"])
     & ~filters.private)
 async def chatboton(client, message):
     vdb = MongoClient(MONGO_URL)    
