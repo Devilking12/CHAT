@@ -15,42 +15,12 @@ Click Below Picture To Open Rdx Chat Bot Owner Id...
 ## ᴅᴇᴘʟᴏʏ
 🌷 You can Deploy Easily Fork repo and Give Start 🌷
 
-## 🥀 ʙᴏᴛ ᴅᴇᴘʟᴏʏ ᴏɴ ᴡᴏʀᴋғʟᴏᴡ / (ʀᴅx ᴋɪɴɢ)
+## 🥀 ʙᴏᴛ ᴅᴇᴘʟᴏʏ ᴏɴ ᴡᴏʀᴋғʟᴏᴡ / (Devil ᴋɪɴɢ)
  At 1st Import This Repo Then Input All Value In Bikash.py || Then Proceed Kaali Linux Value Or Ect.
-
-## 🥀 ʀᴅx ᴋɪɴɢ ᴛᴜᴛᴏʀɪᴀʟ
-
-[ʀᴅx ʀᴀᴊ](https://www.youtube.com/channel/UCoOmopJ8YVYz9Lm8iHhNYMw)
-
-## 🥀 ᴄʜᴀᴛ ʙᴏᴛ ᴅᴇᴘʟᴏʏ ᴛᴜᴛᴏʀɪᴀʟ ᴏɴ ʀᴅx ᴋɪɴɢ 
-
-[ʀᴅx ʀᴀᴊ](https://www.youtube.com/channel/UCoOmopJ8YVYz9Lm8iHhNYMw)
-
-## ⚒️ 𝐂𝐫𝐞𝐝𝐢𝐭
-[『♕︎𓆩𝗥𝗗𝗫𓆪𝗥⟁𝗝™♕︎』](https://t.me/rj29rdx)
 
 ## ᴛᴇʟᴇɢʀᴀᴍ 🏪
 
-[![Telegram Group](https://img.shields.io/badge/Telegram-Group-brightgreen)](https://t.me/BGT_Chat)
+[![Telegram Group](https://img.shields.io/badge/Telegram-Group-brightgreen)](https://t.me/+_8wXoXCar25hM2Q1)
 
-[![Telegram Channel](https://img.shields.io/badge/Telegram-Channel-brightgreen)](https://t.me/Bikashgadgetstech)
+[![Telegram Channel](https://img.shields.io/badge/Telegram-Channel-brightgreen)]((https://t.me/About_Devil_XD))
 
-## ʏᴏᴜᴛᴜʙᴇ 📺
-
-[YouTube Channel](https://youtube.com/channel/UCUkj6FFzdsOO5acUXVOEECg)
-
-
-#### 🥺 ᴄᴏᴘʏ ᴘᴀsᴛᴇʀs ʏᴏᴜ ᴄᴀɴ ᴄᴏᴘʏ ᴛʜɪs ʀᴇᴘᴏ ʙᴜᴛ ᴍᴜsᴛ ɢɪᴠᴇ ᴄʀᴇᴅɪᴛs ...
-
-### 🌷 ᴏᴡɴᴇʀ ᴏғ ᴛʜɪs ʀᴇᴘᴏsɪᴛᴏʀʏ 🇮🇳
-[![ʀ](https://t.me/rj29rdx))
-
-
-#### ᴍᴀɪɴ ᴅᴇᴠᴇʟᴏᴘᴇʀ = [『♕︎𓆩𝗥𝗗𝗫𓆪𝗥⟁𝗝™♕︎』](tg://user?id=1777270311)
-
-## 💕 sᴘᴇᴄɪᴀʟ ᴛʜᴀɴᴋs
-
-✅ ʀᴅx ʀᴀᴊ ᴛʜᴀɴᴋs ғᴏʀ ғɪxᴇᴅ ᴀʟʟ ᴇʀʀᴏʀ ᴏʀ ʟᴏᴠᴇʟʏ sᴜᴘᴘᴏʀᴛ 💕
-
-
-## 🥀 ᴘᴏᴡᴇʀᴇᴅ ʙʏ [ʀᴅx ᴋɪɴɢ](tg://user?id=1777270311) & [『♕︎𓆩𝗥𝗗𝗫𓆪𝗥⟁𝗝™♕︎』](tg://user?id=1777270311)
