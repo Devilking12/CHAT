@@ -67,7 +67,7 @@ async def start_(client: Client, message: Message):
 async def start(client: Client, message: Message):
     await message.reply_photo(
         photo=f"{BOT_IMAGE}",
-        caption=f"""ʜʏ  ɪ'ᴀᴍ ᴀ ᴀᴅᴠᴀɴᴄᴇ ᴄʜᴀᴛ ʙᴏᴛ.\n\n ғᴇᴏᴍ ʏᴏᴜʀ ʜᴇᴀʀᴛ \n\n ɪ'ᴍ ᴀ ᴀʀᴛɪғɪᴄɪᴀʟ ɪɴᴛᴇʟʟɪɢᴇɴᴄᴇ \n\nᴀɴʏ ᴘʀᴏʙʟᴇᴍ ᴛᴏ [ʀᴇᴘᴏʀᴛ](https://t.me/+MQn7rXz1LeViZmJl)  🥀\n\n[ᴜᴘᴅᴀᴛᴇs](https://t.me/+MQn7rXz1LeViZmJl) \n\n /chatbot - [on|off]""",
+        caption=f"""ʜʏ  ɪ'ᴀᴍ ᴀ ᴀᴅᴠᴀɴᴄᴇ ᴄʜᴀᴛ ʙᴏᴛ.\n\n ғᴇᴏᴍ ʏᴏᴜʀ ʜᴇᴀʀᴛ \n\n ɪ'ᴍ ᴀ ᴀʀᴛɪғɪᴄɪᴀʟ ɪɴᴛᴇʟʟɪɢᴇɴᴄᴇ \n\nᴀɴʏ ᴘʀᴏʙʟᴇᴍ ᴛᴏ [ʀᴇᴘᴏʀᴛ](https://t.me/+_8wXoXCar25hM2Q1)  🥀\n\n[ᴜᴘᴅᴀᴛᴇs](https://t.me/+_8wXoXCar25hM2Q1) \n\n /chatbot - [on|off]""",
         reply_markup=InlineKeyboardMarkup(
             [
                 [
@@ -104,7 +104,7 @@ async def chatbotofd(client, message):
     
 
 @bot.on_message(ᴜᴘᴅᴀᴛᴇs
-    filters.command("chatbot on", prefixes=["/", ".", "?", "-", "RDX"])
+    filters.command("chatbot on", prefixes=["/", ".", "?", "-", "Devil"])
     & ~filters.private)
 async def chatboton(client, message):
     vdb = MongoClient(MONGO_URL)    
